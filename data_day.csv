@@ -1,1 +1,3 @@
-
+hausverbrauch_v,solarproduktion_v,batterie_ladezustand_p,batterie_laden_v,batterie_entladen_v,netz_einspeisung_v,netz_bezug_v,eigenstrom_v,eigenstrom_p,startTimestamp,dayTimestamp,weekTimestamp,monthTimestamp,yearTimestamp,kosten_strompreis_e,kosten_einspeisepreis_e,kosten_strom_g,kosten_einspeise_g,batterie_einsparung_v
+31.94025,0.84675,0.0,0.5920625,0.3103125,3.125e-05,32.175125,0.0,0.0,2024-01-17 00:00:00,2024-01-17,2024-01-15,2024-01-01,2024-01-01,0.3093,0.082,0.0,2.5625e-06,0.14452878125000002
+27.5555,5.22925,0.0,3.8170625,3.09025,0.09840625,24.170625,3.38487463180542,0.12283843994140625,2024-01-18 00:00:00,2024-01-18,2024-01-15,2024-01-01,2024-01-01,0.3093,0.082,1.0469417236174166,0.0080693125,1.2688134500000001
