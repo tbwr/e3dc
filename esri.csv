@@ -1,0 +1,4 @@
+x,y,solarproduktion_v,hausverbrauch_v,batterie_laden_v,batterie_entladen_v,batterie_ladung_p,netz_einspeisung_v,netz_einspeisung_e,netz_bezug_v,netz_bezug_e,autarkie_p,eigenstrom_p,netz_einspeisung_p,netz_bezug_p,autarkie_v,eigenstrom_v,direktverbrauch_v,einsparung_solar_v,einsparung_batterie_v,startTimestamp,weekTimestamp,monthTimestamp,yearTimestamp
+1,1,15.9591,5.02033,10.62686,1.85371,0.88587,0.60042,0.082,0.18841,0.2974,0.96247,0.88947,0.11053,0.03753,4.83191,4.83192,4.73182,1.43701,-0.32011,2023-07-26,2023-07-24,2023-07-01,2023-01-01
+1,1,11.0671,13.29672,4.57839,9.8302,0.47726,0.26741,0.082,0.43813,0.2974,0.96705,0.97963,0.02037,0.03295,12.8586,12.85859,6.2213,3.82415,2.54807,2023-07-27,2023-07-24,2023-07-01,2023-01-01
+1,1,22.31896,13.67813,13.20193,8.17336,0.77736,0.85095,0.082,0.89436,0.2974,0.93461,0.93759,0.06241,0.06539,12.78378,12.78377,8.26608,3.80189,1.3482,2023-07-28,2023-07-24,2023-07-01,2023-01-01
